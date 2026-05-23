@@ -58,14 +58,6 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelghani-djef&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghani-djef&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165" />
-</p>
-
 <p align="center">
   <i>Open to full-time roles, freelance work, and interesting collaborations.</i>
 </p>
