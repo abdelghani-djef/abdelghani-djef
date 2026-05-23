@@ -58,12 +58,6 @@
 
 ---
 
-### 📌 Featured Project
-
-**[Taskly — Full-Stack Todo App](https://github.com/abdelghani-djef)**
-A complete todo app built front to back: a **FastAPI** REST backend with JWT auth and **PostgreSQL**, paired with a **React + TypeScript** frontend. Containerized with **Docker** and deployed on a **Linux** VPS behind **Nginx**.
-
----
 
 ### 📊 GitHub Stats
 
