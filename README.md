@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  <i>Open to full-time roles, freelance work, and interesting collaborations.</i>
+  <i>Open to freelance work, and interesting roles</i>
 </p>
